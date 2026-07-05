@@ -29,7 +29,7 @@ The analytical pipeline generates five distinct, multi-plot dashboards, each foc
 ### 1. Demographics & Diversity Insights
 * **Focus:** How age, relationship status, and gender distribution correspond to corporate stability.
 * **Key Finding:** Attrition heavily spikes within the younger age bracket (**28–32 years old**). Furthermore, **Single** employees exhibit an elevated attrition rate of **25.5%**—significantly higher than married or divorced peers.
-* *Output File:* `dashboard1_demographics.png`
+* *Output File:* `dashboard/1.png`
 
 ### 2. Compensation & Financial Drivers
 * **Focus:** The relationship between monthly income curves, stock equity incentives, and annual salary hikes.
